@@ -1,1 +1,89 @@
+1️⃣ PROTECT WHAT YOU HAVE
+What is most confidential?
+what can't you afford to lose?
+what is irreplaceable?
+what would cause the most damage?
+what might impact your reputation?
+
+example:- 
+photos
+credit card details 
+bank details
+personal identification info
+linkedin, fb, amazon, paypal etc information
+email details
+browser history 
+passwords
+financial records
+
+
+2️⃣ Privacy Anonymity and Pseudonymity
+
+privacy is nobody seeing what you do but potentially knowing who you are
+It is about maintaining confidentiality and keeping secrets. Eg- if you send an encrypted mail to a friend then only you and they can read.
+
+Anonymity is when out of a set of all possible people, there is an equal chance it could be anyone.
+Anonymity means non attribution to your actions to be nameless, to be faceless.
+example:- you connect to internet through an anonymizing service like tor and post a message about
+wonem's right under anonymous username maybe in a country where that's crime your identity remains anonymous and seperate from your true identity
+
+
+Pseudo anonymity is when you wish to retain a reputation against an identity. eg:- having an alias for social media or for forum online a
+an adversary may not know who the blue bag user is but they can contribute posts and activities.
+
+3️⃣Security, Vulnerabilities, Threats and Adversaries
+                          Assets
+                            -
+                            -
+                            -
+                            -
+           --------------------------------------                 
+           -           -            -           -
+        privacy    anonymity     identity     pseudonymity
+                            -
+                            -
+                            -
+                            -
+                         Security
+                             -
+                             -
+                             -
+                             -
+   --------------------------------------------------------------------------------
+   -      -     -         -           -           -        -        -       -     -
+   tor   vpn  jondonym  opsec         2fa        http   firewall ssl/tls  https  ssh
+                        encryption   patching\
+                             -
+                             -
+                             -
+                             -
+                          Threats
+                             -
+                             -
+                             -
+                             -
+   ----------------------------------------------------------------------------------------
+   -            -       -      -           -        -        -       -                  -   
+   vishing   phising  spying  spyware   rootkits   RATS  viruses  malware     mass surveillance 
+                             -
+                             -
+                             -
+                             -
+                        Adversaries
+                             -
+                             -
+                             -
+                             -
+    -----------------------------------------------------------------------------------------------------------------
+    -            -            -            -              -        -             -                 -                -
+    spies   nation-states   hackers   hacker gropus   crackers colleagues  cyber criminals   law enforcement   governments
+                             
+    
+    1. The assets are individual to you yor personal needs and to protrct these assests we apply security
+    2. Security is the degree to which our assets are resistant to threats from our adversaries.v we select security controls based on the type of threats and adversaries that we face.
+    3. Threats are the bad thingd that can happen like malware attack like mass surveillance like exploit  which might be hackers, cybercriminals nation states oppressive regimes and maybe something like your ex partner
+    4. There can be vulnerabilities, bugs and weaknesses in your security controls. A threat will try to exploit vulnerabilities in your security to impact your assets.
+    5. Risk= Vulnerabilities*threats*consequences
+    6. your security controls should be selected based on their ability to mitigate your perceived threat
+    7. Security is a technology, is an action and is a process.
 
